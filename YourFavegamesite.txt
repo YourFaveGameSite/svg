@@ -40,35 +40,40 @@ https://fastly.jsdelivr.net/gh/username9927282/cherrisvg@main/index.svg?1
 https://gcore.jsdelivr.net/gh/username9927282/cherrisvg@main/index.svg?1
 https://quantil.jsdelivr.net/gh/username9927282/cherrisvg@main/index.svg?1
 GN-MATH
-https://cdn.jsdelivr.net/gh/YourFaveGameSite/xml/Main.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath8cb8a.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath33b7f.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath68f43.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmatha6ee0.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath45b73.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmatha367e.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath05839.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmathd779c.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmathebdea.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmatha8850.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath72cd1.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmathb96ce.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath2eb74.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath47276.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath511f1.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmathf354d.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath880d8.svg
-https://cdn.inksoft.com/images/clipart/svg/2570/designer2103988394847715328under/gnmath3554e.svg
+https://cdn.jsdelivr.net/gh/YourFaveGameSite/HOMEWORK@main/a2.svg
+https://cdn.jsdelivr.net/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://quantil.jsdelivr.net/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://gcore.jsdelivr.net/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://fastly.jsdelivr.net/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://originfastly.jsdelivr.net/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://testingcf.jsdelivr.net/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://jsdelivr.b-cdn.net/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://jsd.onmicrosoft.cn/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://cdn.staticdelivr.com/gh/Sloth648/caverned-spooky-wraith/main/a2.svg https://cdn.jsdmirror.com/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://cdn.statically.io/gh/Sloth648/caverned-spooky-wraith/main/a2.svg https://esm.sh/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://esm.sh/gh/Sloth648/caverned-spooky-wraith@main/a2.svg?raw https://raw.esm.sh/gh/Sloth648/caverned-spooky-wraith@main/a2.svg https://raw.githack.com/Sloth648/caverned-spooky-wraith/main/a2.svg https://rawcdn.githack.com/Sloth648/caverned-spooky-wraith/main/a2.svg https://raw.githubusercontent.com/Sloth648/caverned-spooky-wraith/main/a2.svg https://githubraw.com/Sloth648/caverned-spooky-wraith/main/a2.svg 
 UGS
 https://cdn.jsdelivr.net/npm/ugs-singlefiles@1.0.6/mustard.svg
 https://cdn.jsdelivr.net/gh/YourFaveGameSite/UGS@main/mustard.svg
 TUNG TUNG
-https://dd1hfh01dlqgu.cloudfront.net/
-https://d2zobue1t3ey6b.cloudfront.net/
-https://tungtung.vip/ 
-https://djz51oelf1hfk.cloudfront.net/ 
-https://s3.amazonaws.com/tungnotes/index.html https://tungnotes.s3.amazonaws.com/index.html https://s3.amazonaws.com/cedarstudy/index.html https://cedarstudy.s3.amazonaws.com/index.html 
-https://raphael.baby/ 
-https://willowprep.s3.amazonaws.com/index.html https://willowprep.s3.us-east-1.amazonaws.com/index.html https://willowprep.s3-external-1.amazonaws.com/index.html https://s3.amazonaws.com/willowprep/index.html https://s3.us-east-1.amazonaws.com/willowprep/index.html https://s3-external-1.amazonaws.com/willowprep/index.html 
-NN
+https://de65f25rwcp70.cloudfront.net/ https://s3.amazonaws.com/pinepractice/index.html https://s3.us-east-1.amazonaws.com/pinepractice/index.html https://s3-external-1.amazonaws.com/pinepractice/index.html https://pinepractice.s3.amazonaws.com/index.html https://pinepractice.s3.us-east-1.amazonaws.com/index.html https://pinepractice.s3-external-1.amazonaws.com/index.html 
+RANDOM
 https://cdn.jsdelivr.net/gh/YourFaveGameSite/orion@main/index.svg
+https://cdn.jsdelivr.net/gh/xzvtps/dayz-cdn-4-mvpkzc7o@main/index-10-7v5fz7.svg
+
+
+DUCKMATH
+https://cdn.jsdelivr.net/gh/freezenovasrl/cdn@main/duckmath.svg
+https://assets.editor.p5js.org/69f34707e1b8c4295655b517/6e528b37-2c24-457c-b1de-8b0964eacd2f.svg 
+https://duckable.lovable.app 
+https://duck.classroomcommunity.com
+https:// duck.classroom-community.com
+https://unpkg.com/classroomduck/index.html unpkg.com/classroomduck/index.svg esm.sh/classroomduck/index.html https://esm.sh/classroomduck/index.svg https://fastly.jsdelivr.net/npm/classroomduck/index.svg 
+https://cdn.jsdelivr.net/gh/freezenovasrl/cdn@main/duckmath.svg
+
+
+SHADOW
+https://dailyhistoryacademy.agcm.ch/ https://satpractice.jimleachmechanical.com/ https://exploremath.klezmonauts.co.uk/ https://clearastronomynotes.laravel.mx/ https://reviewmath.toomanyanimals.ca/ https://studychemistry.adcross.cl/ https://reviewastronomy.deepee.com/ https://smartcodinghelp.iborn.hk/ https://learngeometry.robdon.com/ https://dailyalgebrapractice.shiwo.org/ 
+REFACT
+https://cdn.jsdelivr.net/gh/qsnt/shinydonut83@main/refract.svg
+https://cdn.jsdelivr.net/gh/YourFaveGameSite/REFACT@main/refract.svg
+https://cdn.jsdelivr.net/gh/qsnt/shinydonut83@79de138ebdd7ae7c9890f1088caf0dc46b593802/refract.svg https://cdn.jsdelivr.net/gh/qsnt/mellowmuffin88@79de138ebdd7ae7c9890f1088caf0dc46b593802/refract.svg https://cdn.jsdelivr.net/gh/qsnt/wittydonut50@79de138ebdd7ae7c9890f1088caf0dc46b593802/refract.svg https://cdn.jsdelivr.net/gh/qsnt/proudotter65@79de138ebdd7ae7c9890f1088caf0dc46b593802/refract.svg https://cdn.jsdelivr.net/gh/qsnt/bravemuffin27@79de138ebdd7ae7c9890f1088caf0dc46b593802/refract.svg https://cdn.jsdelivr.net/gh/qsnt/gentlepebble55@79de138ebdd7ae7c9890f1088caf0dc46b593802/refract.svg https://cdn.jsdelivr.net/gh/qsnt/smoothmeadow86@79de138ebdd7ae7c9890f1088caf0dc46b593802/refract.svg https://cdn.jsdelivr.net/gh/qsnt/calmmuffin77@79de138ebdd7ae7c9890f1088caf0dc46b593802/refract.svg
+https://s3.us-east-2.amazonaws.com/jollyisland46/index.html https://s3.us-east-2.amazonaws.com/jollypuffin40/index.html https://s3.us-east-2.amazonaws.com/dustyrocket25/index.html https://s3.us-east-2.amazonaws.com/wittyapple66/index.html https://s3.us-east-2.amazonaws.com/wittyribbon39/index.html https://s3.us-east-2.amazonaws.com/wildpebble63/index.html https://s3.us-east-2.amazonaws.com/smoothotter42/index.html https://s3.us-east-2.amazonaws.com/rustyapple92/index.html https://s3.us-east-2.amazonaws.com/sillypickle56/index.html https://s3.us-east-2.amazonaws.com/youngbanana53/index.html https://s3.us-east-2.amazonaws.com/eagerwalnut90/index.html https://s3.us-east-2.amazonaws.com/roughmarble35/index.html https://s3.us-east-2.amazonaws.com/noisypillow26/index.html https://s3.us-east-2.amazonaws.com/proudpickle41/index.html https://s3.us-east-2.amazonaws.com/calmpickle66/index.html https://s3.us-east-2.amazonaws.com/bravewalnut66/index.html https://s3.us-east-2.amazonaws.com/proudkoala29/index.html https://s3.us-east-2.amazonaws.com/bravemarble93/index.html https://s3.us-east-2.amazonaws.com/roughpebble80/index.html https://s3.us-east-2.amazonaws.com/cozypillow45/index.html https://s3.us-east-2.amazonaws.com/luckypebble87/index.html https://s3.us-east-2.amazonaws.com/fancymaple62/index.html https://s3.us-east-2.amazonaws.com/boldmuffin94/index.html https://s3.us-east-2.amazonaws.com/cozymaple26/index.html https://s3.us-east-2.amazonaws.com/dustylemon10/index.html 
+GHOSTCLOUD
+COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON
+GHOSTMATH
+COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON  
+MANTLE
+https://cdn.jsdelivr.net/gh/YourFaveGameSite/svg@main/MAYBACK.svg
+https://sites.google.com/view/mantle-menu/
+https://tinyurl.com/YFGSMANTLE
